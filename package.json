@@ -1,0 +1,22 @@
+{
+  "name": "tandoorinights",
+  "version": "1.0.0",
+  "description": "Project with Sophie, Annie and John",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnySaito/tandooriNights.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnySaito/tandooriNights/issues"
+  },
+  "homepage": "https://github.com/JonnySaito/tandooriNights#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
